@@ -1,5 +1,3 @@
-# Genetic-Algorithm
-This is a basic genetic algorithm simulation using Artificial Intelligence. In this program, the aim is to have agents that most accurately spell 'GeneticAlgorithm'. The AI itself provides fitness scores, selection, crossover, and mutations. Although this program is basic (due to a capped population, basic selection and mutations), it shows the computers amazing ability to 'think' for itself. What's even cooler is that this code creating code! Feel free to check it out, play around with the generation cap, initial population, and mutations! :) 
 from fuzzywuzzy import fuzz
 import random
 import string
